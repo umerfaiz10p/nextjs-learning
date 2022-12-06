@@ -1,0 +1,42 @@
+.blogpreview {
+    padding: 2px 16px;
+    background: #fff;
+    display: block;
+    margin: 20px 10px;
+    border-left: 8px solid #fff;
+  }
+  .blogpreview:hover {
+    border-left: 8px solid #212122;
+    }
+  .blogpreview h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  .blogpreview a{
+    text-decoration: none;
+  }
+  .blogdetails div {
+    margin: 20px 0;
+  }
+  .blogdetails h2 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  .blogdetails button {
+    background-color: rgb(226, 220, 220);
+    color: #333;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .blogdetails button:hover {
+    background: 8px solid #212122;
+    color: rgb(252, 7, 7);
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    }
